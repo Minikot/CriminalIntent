@@ -162,6 +162,7 @@ public class CrimeFragment extends Fragment {
         updateDate();
         etTitle.setText(crime.getTitle());
         cbSolved.setChecked(crime.isSolved());
+        Toast.makeText(getActivity(), "Data updated", Toast.LENGTH_SHORT).show();
     }
 
     @Override
