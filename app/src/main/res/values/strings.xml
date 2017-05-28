@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Add title hear</string>
+    <string name="crime_pick_date">Pick date of crime</string>
+    <string name="menu_add_crime">Add crime</string>
+    <string name="menu_show_subtitle">Show subtitle</string>
+    <string name="menu_hide_subtitle">Hide subtitle</string>
+    <string name="subtitle_format">%s crimes</string>
+    <string name="choose_suspect">Choose suspect</string>
+    <string name="send_report">Send report</string>
+
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="crime_report_body">%1$s. %2$s, %3$s, %4$s,</string>
+    <string name="crime_report_solved">Crime is solved</string>
+    <string name="crime_report_not_solved">Crime is not solved</string>
+    <string name="crime_report_suspect">suspect is %1$s</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_send">Send report via</string>
+
+</resources>
